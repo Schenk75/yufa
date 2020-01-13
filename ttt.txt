@@ -1,0 +1,8 @@
+const 78=88;
+var 8;
+procedure 2,jie;
+var a
+
+begin
+end
+.

@@ -1,0 +1,9 @@
+procedure 2,jie;
+const 78=88;
+var i, j, k;
+begin
+end;
+
+begin
+end
+.

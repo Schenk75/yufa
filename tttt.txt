@@ -1,0 +1,6 @@
+const 89=9
+var a
+
+begin
+end
+.
